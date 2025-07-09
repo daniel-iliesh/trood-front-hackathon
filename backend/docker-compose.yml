@@ -1,0 +1,11 @@
+services:
+  go-web-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8888:8080"
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped
+
