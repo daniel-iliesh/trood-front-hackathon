@@ -1,7 +1,7 @@
 # Trood Front Hackathon API
 
 Deployed at:
-[](https://troodback.rocket-champ.com)
+[troodback.rocket-champ.com](https://troodback.rocket-champ.com)
 
 This repository contains a simple project management API built with Go and Gin framework. Swagger documentation is included.
 
